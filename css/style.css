@@ -11,3 +11,9 @@ h2 {
 h3 {
     color:chocolate;
 }
+img {
+    border-radius: 50%;
+}
+#intro {
+    display: grid;
+  }

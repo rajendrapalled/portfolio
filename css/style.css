@@ -11,9 +11,13 @@ h2 {
 h3 {
     color:chocolate;
 }
-img {
+body > img {
     border-radius: 50%;
 }
 #intro {
     display: grid;
+  }
+
+p > a:hover {
+    background-color: gold;
   }

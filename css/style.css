@@ -59,3 +59,6 @@ p > a:hover {
     background-color: gold;
 }
 
+#contact {
+    text-decoration: red;
+}
